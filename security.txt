@@ -1,0 +1,5 @@
+/* SECURITY */
+Contact: https://insurancebillhelp.github.io/
+Expires: 2027-01-01
+Preferred-Languages: en
+Canonical: https://insurancebillhelp.github.io/
