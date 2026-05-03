@@ -1,0 +1,10 @@
+{
+  "name": "Progressive Bill Pay Guide",
+  "short_name": "Bill Pay",
+  "start_url": "/progressiveguide/",
+  "display": "standalone",
+  "background_color": "#0b1220",
+  "theme_color": "#0b1220",
+  "description": "Guide for Progressive bill payment, guest payment, and billing help.",
+  "icons": []
+}
